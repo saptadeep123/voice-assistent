@@ -4,7 +4,7 @@ import google.generativeai as genai
 import os
 
 # Configure the Gemini API
-genai.configure(api_key="AIzaSyCAN2xDwxrgwItp6bxnUIkfmwAeazBqWGI")
+genai.configure(api_key="//api key")
 
 class VoiceAssistant:
     def __init__(self): 
